@@ -37,8 +37,6 @@ INNER JOIN • Multi-table JOIN • Aliases • WHERE • ORDER BY • GROUP BY 
 
 
 
-
-
 ---
 
 
